@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "title": "Test Meeting",
+      "start_time": "2024-03-20T10:00:00",
+      "end_time": "2024-03-20T11:00:00",
+      "duration_minutes": 60,
+      "description": "A test meeting"
+    },
+    {
+      "title": "Team Sync",
+      "start_time": "2024-06-02T09:00:00",
+      "end_time": "2024-06-02T09:30:00",
+      "duration_minutes": 30,
+      "description": "desc"
+    },
+    {
+      "title": "Dup Event",
+      "start_time": "2024-06-03T10:00:00",
+      "end_time": "2024-06-03T10:45:00",
+      "duration_minutes": 45,
+      "description": "desc"
+    }
+  ],
+  "last_updated": "2025-05-18T09:28:56.081713",
+  "timezone": "EST"
+}
