@@ -9,7 +9,6 @@ __pycache__/
 *.sqlite3
 *.db
 *.csv
-*.txt # Be careful if you have essential text files
 *.ipynb
 notebooks/
 tests/
