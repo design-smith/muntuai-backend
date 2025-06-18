@@ -1,0 +1,24 @@
+.git/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.sqlite3
+*.db
+*.csv
+*.txt # Be careful if you have essential text files
+*.ipynb
+notebooks/
+tests/
+dist/
+build/
+*.egg-info/
+tmp/
+*.zip
+*.tar.gz
+src/*.zip # If you have zipped models/data in src, exclude them
+data/ # If you have large local data files not needed at runtime
+models/ # If you're bundling large ML models directly in your repo
